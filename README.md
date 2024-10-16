@@ -28,5 +28,5 @@ Running 'npm run start' command to start the development server
 
 ## Resource Used
 
-** font-awesome
-For getting icons
+- font-awesome
+<br> <b>For getting icons</b>

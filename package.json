@@ -1,5 +1,19 @@
 {
+  "name": "pinak-idea-lab-private-limited-assignment",
+  "version": "1.0.0",
+  "description": "Installing 'tailwind' css via 'npm' as devDependencies\r ``` js\r npm install -D tailwindcss\r ```\r Creating 'tailwind.config.js' file\r ``` js\r npx tailwindcss init\r ```\r Configuring my 'tailwind.config.js' file\r ``` js\r /** @type {import('tailwindcss').Config} */\r module.exports = {\r   content: [\"./src/**/*.{html,js}\"],\r   theme: {\r     extend: {},\r   },\r   plugins: [],\r }\r ```\r Adding tailwind css directives to my css file\r ``` js\r @tailwind base;\r @tailwind components;\r @tailwind utilities;\r ```",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.4.14"
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.9"
   }
 }

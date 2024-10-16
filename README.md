@@ -1,5 +1,9 @@
 # Pinak-Idea-Lab-Pvt-Ltd-Assignment
 
+## Reference Image
+
+![Task](./task.png)
+
 ## Getting Started with Tailwind CSS
 
 Initailising the directory
